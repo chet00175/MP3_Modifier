@@ -1,5 +1,6 @@
 There are 2 python programs in this folder - main.py and overlay_audio.py.
-Both serve different functions.
+Both serve different functions. 
+Note that you require ffmpeg installed on your machine and available via the PATH to use these programs.
 
 
 1) Run the program as follows for trimming an mp3 file called song.mp3 according to the given timestamps.
